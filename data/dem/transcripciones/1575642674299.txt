@@ -1,0 +1,89 @@
+pensión si tengo que tengo que poner modo avión porque se llama
+Escuela Normal resistencia
+entra a Google y busca de jóvenes y jóvenes difíciles
+chicos estoy recordatorio de algo que ya manejan pero es el récord
+torio de la forma más sencilla de la forma más práctica y de cómo lo puedan usar en la vida cotidiana le suena la palabra probabilidad de qué viene
+de probable cierto en matemáticas también se trabajan los eventos probables
+pasaje en base a lo que son problemas de planteó pero enfocados operatoria que de repente no es necesario aplicar una fórmula específica para por ejemplo Cuántas caras tiene un dado
+Cuántas caras tiene un dado Quiero saber de probabilidad y yo pregunto Cuántas opciones posibles
+Cuántas versiones tengo a lanzar un dado A quién se le ocurre cuando lanza un dado
+esas opciones reales porque el dado tiene 6 caras tiene el número entonces tengo las opciones reales pero qué pasa si me piden que creó la probabilidad
+De que al lanzar el dado no salga un número par Cuántas probabilidades tengo de que al lanzar un dado
+me salga un número par un número par 33
+ya Ese es el universo que tengo ese sería mi universo
+las probabilidades mis opciones dice que tengo 3 probabilidad de que salga un número par 4
+efectivamente tengo tres lenguaje matemático porque ahí lo tengo escrito solamente el lenguaje tradicional escrito en forma pero escribe en forma matemática
+lo mismo que en un entero estaba estuvo relacionado con la que se la atracción por supuesto
+la opción estatales son 6 opciones de lo que me están pidiendo complicó un poquito más si ya no pido en un solo lanzamiento
+voy a complicar tengo la misma opción es porque voy a seguir trabajando con un dado prueba trabajar con v
+y con una moneda
+Cuántas opciones tengo con una moneda con una moneda dos Yo quiero donde se empieza a complicar porque empiezo a mezclar
+si yo pregunto Cuántas opciones tengo de obtener una cara con un número par
+qué tengo que estar ahí
+no lo trabajo con porcentaje todavía lo trabajo con emoción entonces chavo primer análisis
+los que están conectados Pero esta vez las voy a irme entonces digo tengo la posibilidad de que me salga en la moneda una cara
+y que nada más salga el uno la cara con los dos la cara con el 3 a cara con 24 latas 5 la cara con el sexo
+después que cambió acuérdense que la moneda tiene caricia y ahora que te entregas
+Qué cambió los siguientes datos el sello con el uno el dos el tres el cuatro
+cinco iconos Cuál es mi cantidad de opciones total son 22 Cuáles son las
+Cuáles son las reales de que me salga cara con un número par porque porque tengo sólo esto
+preguntó lo dejó así o lo puedo simplificar A cuánto
+estrés en que lo convierto
+encontré un 4 ahora hay veces
+qué me van a pedir en probabilidades que analiza dos eventos juntos otras Me pueden pedir tres me pueden pedir cuatro o a veces sólo uno
+mi universo de posibilidades es mucho más amplio por el dado no tengo limitado tengo sólo seis opciones totales por la moneda también lo tengo su pedido porque tengo sólo dos opciones totales
+Pero a medida que esto se va ampliando va a llegar el momento en el que no lo voy a poder trabajar porque esto sería como cuando uno aprende las tablas y lo hace con la suma iterada
+lo estoy haciendo de forma más concreta que de forma simbólica ahora vamos a realizar en el texto
+Los Tigres
+la primera opción de probabilidad que les expliqué lo que te
+mira que ver con sólo el dado es una probabilidad única pero cuando ya lo mezcló dado con moneda es una probabilidad compuesta
+vendo probabilidad compuesta de dos eventos en adelante pueden ser mucho más ahora
+tengo lo siguiente no sé porque no me aparece la imagen
+Maradona que poner en ejercicio la imaginación Por qué la imagen no aparece vamos a trabajar
+bombones de una caja ya no trabajamos mandado ni comida sino que estamos enfocados una caja de bombones nos vamos a convertir en 40 hora
+una caja de bombones surtidos puede incluir de 5 a 10 tipos de bombones diferentes
+existe una clave para identificar los distintos tipos y otras veces no por ejemplo hay marcas de caja de bombones que son todos iguales casi a la sorpresa el sabor que vi
+dentro del Bombón Pero hay otra manito la decoración que tiene más o menos del sabor que puede ser
+A ver no sabes que el relleno de menta si viene con una almendra No ya sabe que es con almendras distintas características aquí viene lo difícil me dicen qué
+tenemos que suponer o imaginar que nos regalaron una caja grande de bombones con 60 piezas
+Rosa 60 piezas son todas iguales todos tienen la misma forma tiene la misma cama en el exterior pero
+la caja me anuncian que hay bombones de caramelo mantequilla de maní de coco
+de cereza de trufa de chocolate negro y de almendra
+preguntó me dicen que hay un número igual de cada tipo de bombón
+la casa Tengo 60 piezas Cuántas opciones tengo tengo 7 opciones
+Cuánto cobran de cada uno
+no era trufa de chocolate negro No aparte la pregunta del millón cuántos tienes tango Logan
+rojo Antonio Cuántos Tengo seis en total cuántos bombones de cada sabor serían
+entonces si yo pregunto vez esta caja de bombones Cuántas opciones o Qué probabilidad tengo de que me salga un bombón de alma
+muy bien muy bien Antonio de que me estaba mirando no diferencio cuál de las dos era
+de la 60 piezas Tengo 10 posibilidades de que me salga uno de almendras y cuántas posibilidades tengo de que me salga una mantequilla de maní
+la misma porque porque de cada uno de los tipos supertrip de cada uno de los tipos Tengo 10 pero ahora viene pregunta
+Quién quiere salir de voluntario galleras
+La pregunta es con lo mismo que Cuál es la probabilidad de
+elegir un bombón con caramelos Cuántos caramelos
+Espérame por ahí estaba con la almendra caramelo pero con el profe
+cómo te salga prueba y después Confirmamos con lo que salen en el libro si lo hacemos algo de ti
+acuérdate concierto Cuántos bombones tiene en total la caja
+60 y según las cantidades cuánto serían los bombones de caramelo que pueda tener esa caja
+Entonces ahora Explícame porque tendría
+esta cantidad Qué moto me dieron para yo poder decir son 10 bombones los que son de caramelo
+el porcentaje sobre el cabello me tengo que fijar en los datos totales que tengo
+las opciones totales opciones y total de elementos Entonces lo revisamos acá porque acá nos viene la respuesta más entonces
+juego de gerald tengo los 6 tipos de bombones que son los que están aquí en la lista la caja contiene la misma cantidad de cada uno de esos tipos por lo tanto hay 10 de cada uno
+si yo esto lo transformó en una fracción que me explique la probabilidad tengo 10 de 60 Pero eso yo lo puedo simplificar tal como es
+si lo simplifico simplificación ultrafacil voy a borrarlo 0 cuanto me queda
+bonito planeta tierra Llamando a Juanito Juanito ahora
+Si eso lo simplifico y los bosteros Cuánto me queda uno es porque acuérdate Leo como fracción se le da como prueba
+tengo una probabilidad de cada uno sería de caramelo la probabilidad después tal como dijo
+Asu montón de gatos después de que la probabilidad la convierto en esta razón Yo la puedo convertir en un porcentaje Y si la convierto un porcentaje
+me va a decir que tengo un 17% de este total de su Universo de obtener un bombón de caramelo
+vuelvo a repetir cuando tengo un universo Mostrar reducido lo puedo trabajar de manera concreta puedo hacer
+todo el listado de las opciones y ahí las contando a medida que este universo muestral va haciendo mayor voy a tener que aplicar fórmulas pero esas fórmulas todavía no se ocupan en octavos sino que se van viendo en media en forma gradual
+estamos claro no puse a nadie claro
+hora ejercicio
+van a tener que pensar en que experimentó podría hacer cada uno para
+explorar la posibilidad de mezclas de sabores por ejemplo de estos 60 quiero sacar uno de maní y uno de trufa
+cada uno de acuerdo al sabor que prefiera va hacer el experimento de esta forma de las opciones que tiene de obtener esos 5 minutos
+la Cris la niña me encantó
+Qué quiere decir ahora
+tacos súper Muchas gracias Google
